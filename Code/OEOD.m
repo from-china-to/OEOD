@@ -1,7 +1,7 @@
 
 %%Detecting Object-oriented Entropy-based Outlier Detection (OEOD) algorithm
 %%Please refer to the following papers: 
-%%Chang Liu, Zhong Yuan, Hongmei Chen, Dezhong Peng. 
+%%Chang Liu, Dezhong Peng, Hongmei Chen, Zhong Yuan. 
 %%Attribute granules-based object entropy for outlier detection in nominal data
 %%Engineering Applications of Artificial Intelligence,2024.
 %%Uploaded by Chang Liu on March 7, 2024. E-mail:liuchangai@stu.scu.edu.cn.
