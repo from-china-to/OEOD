@@ -43,8 +43,16 @@ out_factor =
 ## Citation
 If you find OEOD useful in your research, please consider citing:
 ```
-@article{
-
+@article{LIU2024108198,
+title = {Attribute granules-based object entropy for outlier detection in nominal data},
+author = {Chang Liu and Dezhong Peng and Hongmei Chen and Zhong Yuan},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {133},
+pages = {108198},
+year = {2024},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2024.108198},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197624003567}
 }
 ```
 ## Contact
