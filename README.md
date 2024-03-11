@@ -8,11 +8,9 @@ Concept lattice theory, which is one of the key mathematical models of granular 
 The results indicate that the proposed method is effective. The code is publicly available online at [https://github.com/from-china-to/OEOD](https://github.com/from-china-to/OEOD).
 
 ## Framework
-```
 ![image](https://github.com/from-china-to/OEOD/blob/main/Paper/OEOD%20framework.png)
 [image]([https://github.com/from-china-to/OEOD](https://github.com/from-china-to/OEOD/blob/main/Paper/OEOD%20framework.png)
 ![hadoop]([https://github.com/from-china-to/OEOD](https://github.com/from-china-to/OEOD/blob/main/Paper/OEOD%20framework.png)
-```
 
 ## Usage
 You can run Demo_OEOD.m:
