@@ -1,5 +1,5 @@
 # OEOD
-Chang Liu, Dezhong Peng, Hongmei Chen, **Zhong Yuan***, [Attribute granules-based object entropy for outlier detection in nominal data](Paper/2024-OEOD.pdf), Engineering Applications of Artificial Intelligence, vol.133, no.  , 3 March 2024, DOI: [10.1016/j.engappai.2024.108198](https://doi.org/10.1016/j.engappai.2024.108198). (Code)
+Chang Liu, Dezhong Peng, Hongmei Chen, **Zhong Yuan***, [Attribute granules-based object entropy for outlier detection in nominal data](Paper/2024-OEOD.pdf), Engineering Applications of Artificial Intelligence, vol.133, Part B, 3 March 2024, DOI: [10.1016/j.engappai.2024.108198](https://doi.org/10.1016/j.engappai.2024.108198). (Code)
 
 
 ## Abstract
